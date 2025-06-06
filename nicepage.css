@@ -46811,14 +46811,14 @@ a.u-link.u-text-hover-color-var:hover {
 }
 @media (max-width: 575px) {
   .u-header .u-image-1 {
-    width: 318px;
-    height: 219px;
-    margin-top: -69px;
-    margin-left: -50px;
+    width: 241px;
+    height: 167px;
+    margin-top: -33px;
+    margin-left: 0;
   }
 
   .u-header .u-menu-1 {
-    margin-top: -129px;
+    margin-top: -113px;
   }
 }
 .u-header .u-image-1, .u-header .u-image-1:before, .u-header .u-image-1 > .u-container-layout:before {
